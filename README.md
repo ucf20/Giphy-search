@@ -54,4 +54,4 @@ async function get() {
   });
 }
 ```
-
+You can check out for [live preview](https://wonderful-dieffenbachia-3b1d4d.netlify.app)
